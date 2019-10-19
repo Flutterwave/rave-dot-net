@@ -1,6 +1,7 @@
 # RAVE .NET SDK
+[![nuget version](https://img.shields.io/nuget/v/RaveDotNet)](nuget.org/packages/RaveDotNet/) [![downloads](https://img.shields.io/nuget/dt/RaveDotNet)](nuget.org/packages/RaveDotNet/) 
 
-Use this library to integrate your dotnet app to use the [Flutterwave Rave Payment Service](https://rave.flutterwave.com)
+Use this library to integrate your dotnet app to use the [Flutterwave Rave Payment Service](https://rave.flutterwave.com).
 
 ## Specs
 
